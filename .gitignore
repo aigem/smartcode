@@ -1,0 +1,7 @@
+node_modules
+output.py
+/.cache
+/build
+.env
+optput.txt
+ 
