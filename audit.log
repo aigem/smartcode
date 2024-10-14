@@ -341,3 +341,8 @@
 2024-10-14T07:01:48.993Z - User: admin, Command: backupScript.bat --folder null, Result: 错误: Command failed: backupScript.bat --folder null
 /bin/sh: 1: backupScript.bat: not found
 2024-10-14T07:01:58.544Z - User: admin, Command: echo n8n, Result: n8n
+2024-10-14T07:08:42.141Z - User: admin, Command: echo null, Result: null
+2024-10-14T07:08:43.522Z - User: admin, Command: echo null, Result: null
+2024-10-14T07:08:46.663Z - User: admin, Command: echo tt, Result: tt
+2024-10-14T07:08:48.756Z - User: admin, Command: backupScript.bat --folder null, Result: 错误: Command failed: backupScript.bat --folder null
+/bin/sh: 1: backupScript.bat: not found
