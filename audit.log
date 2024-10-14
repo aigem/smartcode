@@ -337,3 +337,7 @@
 2024-10-14T06:29:02.093Z - User: admin, Command: echo "hihi", Result: "hihi"
 2024-10-14T06:30:06.042Z - User: admin, Command: echo "hihi", Result: "hihi"
 2024-10-14T06:30:09.932Z - User: admin, Command: 删除命令: hihi, Result: 成功
+2024-10-14T07:01:46.101Z - User: admin, Command: echo null, Result: null
+2024-10-14T07:01:48.993Z - User: admin, Command: backupScript.bat --folder null, Result: 错误: Command failed: backupScript.bat --folder null
+/bin/sh: 1: backupScript.bat: not found
+2024-10-14T07:01:58.544Z - User: admin, Command: echo n8n, Result: n8n
