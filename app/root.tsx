@@ -31,6 +31,7 @@ export default function App() {
         <meta httpEquiv="Content-Language" content="zh-CN, en-US" />
         <Meta />
         <Links />
+        <base href="/smartcode/" />
       </head>
       <body className="h-full bg-gradient-to-br from-purple-50 to-indigo-100 dark:from-gray-900 dark:to-indigo-900">
         <div className="min-h-full flex flex-col">
