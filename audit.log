@@ -341,7 +341,15 @@
 2024-10-14T07:01:48.993Z - User: admin, Command: backupScript.bat --folder null, Result: 错误: Command failed: backupScript.bat --folder null
 /bin/sh: 1: backupScript.bat: not found
 2024-10-14T07:01:58.544Z - User: admin, Command: echo n8n, Result: n8n
+<<<<<<< HEAD
 2024-10-15T03:58:13.738Z - User: admin, Command: echo null, Result: null
 2024-10-15T03:58:15.761Z - User: admin, Command: backupScript.bat --folder null, Result: 错误: Command failed: backupScript.bat --folder null
 'backupScript.bat' 锟斤拷锟斤拷锟节诧拷锟斤拷锟解部锟斤拷锟筋，也锟斤拷锟角匡拷锟斤拷锟叫的筹拷锟斤拷
 锟斤拷锟斤拷锟斤拷锟斤拷锟侥硷拷锟斤拷
+=======
+2024-10-14T07:08:42.141Z - User: admin, Command: echo null, Result: null
+2024-10-14T07:08:43.522Z - User: admin, Command: echo null, Result: null
+2024-10-14T07:08:46.663Z - User: admin, Command: echo tt, Result: tt
+2024-10-14T07:08:48.756Z - User: admin, Command: backupScript.bat --folder null, Result: 错误: Command failed: backupScript.bat --folder null
+/bin/sh: 1: backupScript.bat: not found
+>>>>>>> a33415994079245bfce16978947695f91b3f1569
